@@ -1,0 +1,12 @@
+{
+  "name": "zsm",
+  "url" : "https://github.com/veryevilzed/zsmhx/",
+  "license": "MIT",
+  "tags": ["fsm", "reactive"],
+  "description": "Reactive, Path, FSM tools",
+  "version": "1.0.1",
+  "releasenote": "Initial release, everything is working correctly.",
+  "contributors": ["Veryevilzed"],
+  "dependencies": {
+  }
+}
